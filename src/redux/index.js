@@ -1,0 +1,5 @@
+export { buyIceCream } from './iceCream/iceCreamActions'
+export  {buyCake} from './cake/cakeActions'
+export * from './user/userActions'
+export {eat_pastery} from './Pastery/pasteryAction'
+export {fetchParent} from './parent/parentActions'

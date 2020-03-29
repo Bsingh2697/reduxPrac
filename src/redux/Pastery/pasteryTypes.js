@@ -1,0 +1,1 @@
+export const EAT_PASTERY = 'EAT_PASTERY'
